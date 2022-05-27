@@ -10,7 +10,7 @@
     --bleack-button-element: #262626;
 }
 
-body , div , h1 , h2 , h3 , ul , li {
+body , div , h1 , h2 , h3 , ul , li , svg {
     margin: 0;
     padding: 0;
 }
