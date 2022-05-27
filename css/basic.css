@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --bleack-text-color: #1D1D1D;
+    --white-text-color: #FFFFFF;
+    --grey-border-color: #757575;
+    --green-hover-backgrount: #57AD56;
+    --bleack-button-element: #262626;
+}
+
+body , div , h1 , h2 , h3 , ul , li {
+    margin: 0;
+    padding: 0;
+}
