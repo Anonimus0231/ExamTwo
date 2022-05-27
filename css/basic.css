@@ -1,16 +1,19 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
 }
 
 :root {
-    --bleack-text-color: #1D1D1D;
-    --white-text-color: #FFFFFF;
-    --grey-border-color: #757575;
-    --green-hover-backgrount: #57AD56;
-    --bleack-button-element: #262626;
+  --bleack-text-color: #1D1D1D;
+  --white-text-color: #FFFFFF;
+  --grey-border-color: #757575;
+  --green-hover-backgrount: #57AD56;
+  --bleack-button-element: #262626;
+  --text-weight-klassic: 400;
+  --text-weight-notsmall: 500;
 }
 
 body , div , h1 , h2 , h3 , ul , li {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
