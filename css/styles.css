@@ -94,3 +94,7 @@
   height: 32px;
   border-radius: 16px;
 }
+
+.nav {
+  display: none;
+}
