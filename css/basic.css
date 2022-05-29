@@ -9,6 +9,7 @@
   --grey-border-color: #757575;
   --green-hover-backgrount: #57AD56;
   --bleack-button-element: #262626;
+  --grey-smoll-text: #626262;
   --text-weight-klassic: 400;
   --text-weight-notsmall: 500;
 }
@@ -16,4 +17,8 @@
 body , div , h1 , h2 , h3 , ul , li {
   margin: 0;
   padding: 0;
+}
+
+h6 {
+  display: none;
 }
