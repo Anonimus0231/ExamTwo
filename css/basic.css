@@ -12,6 +12,8 @@
   --grey-smoll-text: #626262;
   --text-weight-klassic: 400;
   --text-weight-notsmall: 500;
+  --padding-desktop-left: 81px;
+  --padding-desktop-right: 87px;
 }
 
 body , div , h1 , h2 , h3 , ul , li {
