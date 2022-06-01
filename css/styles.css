@@ -266,6 +266,7 @@
   font-weight: var(--text-weight-klassic);
   font-size: 13px;
   line-height: 15px;
+  padding-bottom: 23px;
 }
 
 @media (min-width: 768px) {
