@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+:root {
+  --bleack-text-color: #1D1D1D;
+  --white-text-color: #FFFFFF;
+  --grey-border-color: #757575;
+  --green-hover-backgrount: #57AD56;
+  --bleack-button-element: #262626;
+  --grey-smoll-text: #626262;
+  --text-weight-klassic: 400;
+  --text-weight-notsmall: 500;
+  --padding-desktop-left: 81px;
+  --padding-desktop-right: 87px;
+  --nav-color-hover: #327430;
+}
+
+body , div , h1 , h2 , h3 , ul , li {
+  margin: 0;
+  padding: 0;
+}
+
+h6 {
+  display: none;
+}
+
+button , a {
+  text-decoration: none;
+  cursor: pointer;
+}
